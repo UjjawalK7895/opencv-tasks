@@ -1,0 +1,3 @@
+Polygon: square x: 89 y: 432
+Polygon: triangle x: 457 y: 473
+Polygon: hexagon x: 145 y: 151
